@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-
-🔭 I’m currently working on a game called Sumo Strikers with a small team!
+-📫 How to reach me: daniel.ortega.lloret@outlook.com
+-🔭 I’m currently working on a game called Sumo Strikers with a small team!
 
 Click the logo to watch the trailer!
 
@@ -14,7 +14,7 @@ Click the logo to watch the trailer!
 />](https://youtu.be/03_p1_Hj9X0)
 
 
-📫 How to reach me: daniel.ortega.lloret@outlook.com
+
 
 <!--
 - 🌱 I’m currently learning Algorithm Design
