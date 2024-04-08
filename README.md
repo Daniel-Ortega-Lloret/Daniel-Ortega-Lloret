@@ -20,4 +20,4 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 -->
 
-![Daniel's GitHub stats](https://github.com/Daniel-Ortega-Lloret/Daniel-Ortega-Lloret/edit/main/README.md)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Daniel-Ortega-Lloret/github-readme-stats#gh-dark-mode-only)
