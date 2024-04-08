@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 🌱 I’m currently learning Algorithm Design
 
-🔭 I’m currently working on a game called Sumo Strikers with a small team!
+🔭 I’m currently working on a game called Sumo Strikers with a small team! (Trailer: https://youtu.be/03_p1_Hj9X0)
 
 📫 How to reach me: daniel.ortega.lloret@outlook.com
 
