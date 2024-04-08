@@ -19,11 +19,11 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:inline;">
-  <a href="https://github.com/Daniel-Ortega-Lloret/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ortega-Lloret&layout=compact&langs_count=8&card_width=320" />
-  </a>
-  <a href="https://github.com/Daniel-Ortega-Lloret/github-readme-stats" style="padding-left: 2;">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret" />
-  </a>
-</div>
+
+ <a href="https://github.com/Daniel-Ortega-Lloret/convoychat">
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ortega-Lloret&layout=compact&langs_count=8&card_width=320" />
+ </a>
+ <a href="https://github.com/Daniel-Ortega-Lloret/github-readme-stats" style="margin-left: 2;">
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret" />
+ </a>
+
