@@ -21,9 +21,9 @@ Here are some ideas to get you started: -->
 -->
 <div style="display:inline">
   <a href="https://github.com/Daniel-Ortega-Lloret/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ortega-Lloret&layout=compact&langs_count=8&card_width=320" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ortega-Lloret&layout=compact&langs_count=8&card_width=320" />
   </a>
   <a href="https://github.com/Daniel-Ortega-Lloret/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret" />
   </a>
 </div>
