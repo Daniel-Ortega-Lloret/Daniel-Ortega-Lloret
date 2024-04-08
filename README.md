@@ -20,8 +20,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ortega-Lloret&layout=donut-vertical)
-![Daniel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret&show_icons=true&theme=default#gh-light-mode-only)(https://github.com/Daniel-Ortega-Lloret/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ortega-Lloret&hide_progress=true)
+![Daniel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret&show_icons=true&theme=default#gh-light-mode-only)
 
 
 
