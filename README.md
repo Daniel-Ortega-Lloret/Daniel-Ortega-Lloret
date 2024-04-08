@@ -9,8 +9,10 @@ Here are some ideas to get you started: -->
 🔭 I’m currently working on a game called Sumo Strikers with a small team!
 
 
-<iframe width="420" height="345" src="https://youtu.be/03_p1_Hj9X0">
-</iframe>
+[![Watch the trailer](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
+
+[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/APOPm01BVrk)
 
 
 📫 How to reach me: daniel.ortega.lloret@outlook.com
