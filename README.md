@@ -22,6 +22,8 @@ Here are some ideas to get you started: -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ortega-Lloret&size_weight=0.5&count_weight=0.5)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Daniel-Ortega-Lloret/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 
 
