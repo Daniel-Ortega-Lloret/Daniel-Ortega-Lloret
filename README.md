@@ -6,6 +6,7 @@
 Here are some ideas to get you started: -->
 
 -📫 How to reach me: daniel.ortega.lloret@outlook.com
+
 -🔭 I’m currently working on a game called Sumo Strikers with a small team!
 
 Click the logo to watch the trailer!
