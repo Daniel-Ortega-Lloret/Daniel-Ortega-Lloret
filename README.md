@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:flex">
+<div style="display:inline">
   <a href="https://github.com/Daniel-Ortega-Lloret/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Ortega-Lloret&layout=compact&langs_count=8&card_width=320" />
   </a>
@@ -27,7 +27,3 @@ Here are some ideas to get you started: -->
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Ortega-Lloret" />
   </a>
 </div>
-
-
-
-
