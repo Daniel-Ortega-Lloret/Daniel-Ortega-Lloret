@@ -7,16 +7,6 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me: daniel.ortega.lloret@outlook.com
 
-- 🔭 I’m currently working on a game called Sumo Strikers with a small team!
-
-Click the logo to watch the trailer!
-
-[<img src="https://github.com/Daniel-Ortega-Lloret/Daniel-Ortega-Lloret/assets/124155891/60b9f1f7-b2e9-4fff-959c-6659790ec7b7" width="600" height="330"
-/>](https://youtu.be/03_p1_Hj9X0)
-
-
-
-
 <!--
 - 🌱 I’m currently learning Algorithm Design
 - 👯 I’m looking to collaborate on ...
